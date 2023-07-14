@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/kkamara/useful/915937134e2f0b541e50594a9e3c630df56d8c29/see-message-java-mobile.png" alt="see-message-java-mobile.png" />
 
-# python-pong-game-windows-linux-macos-android-ios-mobile
+# python-ping-pong-windows-linux-macos-android-ios-mobile
 
 A 2-player multi-touch game where you click on each half of the game area to play.
 
