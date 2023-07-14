@@ -2,7 +2,7 @@
 
 # python-pong-game-windows-linux-macos-android-ios-mobile
 
-
+A single player game where you click on each half of the game area to play.
 
 ## Requirements
 
